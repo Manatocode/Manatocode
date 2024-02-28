@@ -13,7 +13,7 @@ Estou animado com as possibilidades que o futuro reserva e pronto para contribui
 
 **Vamos construir algo incrível juntos! 💻🚀**</h3>
 
-- Atualmente estudando: **AngularJS**
+- Atualmente estudando: **Laravel**
 
 - Contato: **gabrielmartinellix@outlook.com**
 
