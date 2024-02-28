@@ -1,7 +1,7 @@
 <h1 align="center">Aoba! Eu sou Gabriel Martinelli</h1>
 <h3 align="center">Um desenvolvedor FrontEnd, e um poquinho BackEnd</h3>
 
-<h3>Olá! 👋, sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 
+<h3>Olá! Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 
   
 Minha jornada no mundo da programação começou com um profundo interesse pelo desenvolvimento Back-End, também sou coordenador em uma escola de tecnologia, onde atuo na área administrativa, mas tenho a oportunidade de participar ativamente da elaboração de projetos e gincanas para as crianças, apoiando as aulas quando há a necessidade. E após este contato com a programação, comecei explorando e lógica de programação. [Só eu sei como sofri com beecrowd]
 
