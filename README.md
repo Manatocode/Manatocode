@@ -5,7 +5,7 @@
   
 Minha jornada no mundo da programação começou com um profundo interesse pelo desenvolvimento Back-End, também sou coordenador em uma escola de tecnologia, onde atuo na área administrativa, mas tenho a oportunidade de participar ativamente da elaboração de projetos e gincanas para as crianças, apoiando as aulas quando há a necessidade. E após este contato com a programação, comecei explorando e lógica de programação. [Só eu sei como sofri com beecrowd]
 
-Com o tempo, meu foco evoluiu para o Front-End, onde atualmente estou imerso no Angular. Minha experiência prévia em Orientação a Objeto [Java] tem sido um diferencial nessa transição, permitindo-me compreender e aplicar conceitos avançados com facilidade.
+Com o tempo, meu foco evoluiu para o Front-End, onde atualmente estou imerso no ReactJS. Minha experiência prévia em Orientação a Objeto [Java] tem sido um diferencial nessa transição, permitindo-me compreender e aplicar conceitos avançados com facilidade.
 
 Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades, seja trabalhando em projetos pessoais ou colaborando em equipe. Minha abordagem é na resolução de problemas, buscando sempre a excelência técnica e a entrega de soluções eficientes [sendo às vezes inovador]
 
