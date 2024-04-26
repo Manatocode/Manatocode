@@ -2,7 +2,7 @@
 <h1 align="center">Aoba! Eu sou Gabriel Martinelli</h1>
 <h3 align="center">Um desenvolvedor FrontEnd, e um pouco BackEnd</h3>
 
-<h5>Sou estudante de Análise e Desenvolvimento de Sistemas entusiasmado com este mundo! 
+<h4>Sou estudante de Análise e Desenvolvimento de Sistemas entusiasmado com este mundo! 
  
 Sou coordenador em uma escola de tecnologia, onde atuo na área administrativa, mas tenho a oportunidade de participar ativamente da elaboração de projetos e gincanas para as crianças, apoiando as aulas quando há a necessidade. E após este contato com a programação, comecei com um profundo interesse pelo desenvolvimento Back-End. [Só eu sei como sofri com beecrowd]
 
@@ -10,7 +10,7 @@ Com o tempo, meu foco evoluiu para o Front-End, e atualmente estou imerso no Rea
 
 
 
-**Vamos construir algo incrível juntos!**</h5>
+**Vamos construir algo incrível juntos!**</h4>
 
 - Atualmente estudando: **ReactJS**
 
